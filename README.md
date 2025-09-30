@@ -2,7 +2,7 @@
 
 Ad Insight is an **AI-powered system** that analyzes advertisement data (TV ads, social media ads, product promos) to **measure effectiveness** in terms of engagement, mood, and recall potential.  
 This implementation uses a **Hybrid Artificial Immune System (AIS) + Clonal Selection Algorithm (CSA)** pipeline for feature selection and hyperparameter optimization.
-
+![Confusion Matrix Heatmap](category_heatmap.png)
 ---
 
 ## 🚀 Features
@@ -126,7 +126,6 @@ predictions.csv → predictions like:
 feature1	feature2	...	category_pred
 12	34	...	3
 56	78	...	7
-![Confusion Matrix Heatmap](category_heatmap.png)
 📈 Business Applications
 Marketing teams can pre-test ad effectiveness before release.
 
