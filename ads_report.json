@@ -1,0 +1,44 @@
+{
+    "timestamp": "2025-09-30 10:40:50",
+    "metrics": {
+        "category": {
+            "accuracy": 0.916,
+            "features": [
+                7,
+                3,
+                2,
+                0,
+                1,
+                6,
+                4,
+                5
+            ],
+            "model_path": "C:\\Users\\NXTWAVE\\Downloads\\Ad Insight\\category_hybrid_model.pkl"
+        }
+    },
+    "dataset": {
+        "train_shape": [
+            14999,
+            9
+        ],
+        "test_shape": [
+            8764,
+            8
+        ],
+        "features": [
+            "vidid",
+            "adview",
+            "views",
+            "likes",
+            "dislikes",
+            "comment",
+            "published",
+            "duration"
+        ]
+    },
+    "visuals": {
+        "category_heatmap": "C:\\Users\\NXTWAVE\\Downloads\\Ad Insight\\visuals\\category_heatmap.png",
+        "accuracy_bar": "C:\\Users\\NXTWAVE\\Downloads\\Ad Insight\\visuals\\accuracy_bar.png"
+    },
+    "predictions_file": "C:\\Users\\NXTWAVE\\Downloads\\Ad Insight\\predictions.csv"
+}

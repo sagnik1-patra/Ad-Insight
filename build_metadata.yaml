@@ -1,0 +1,9 @@
+build:
+  artifacts:
+    predictions: C:\Users\NXTWAVE\Downloads\Ad Insight\predictions.csv
+    processed_data: C:\Users\NXTWAVE\Downloads\Ad Insight\processed_ads.h5
+    report: C:\Users\NXTWAVE\Downloads\Ad Insight\ads_report.json
+    visuals: C:\Users\NXTWAVE\Downloads\Ad Insight\visuals
+  date: '2025-09-30 10:40:50'
+  models:
+    category: C:\Users\NXTWAVE\Downloads\Ad Insight\category_hybrid_model.pkl
