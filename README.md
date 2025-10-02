@@ -1,4 +1,4 @@
-# 📊 Ad Insight — AI Advertisement Effectiveness Analyzer
+# 📊 Ad Insight — AI Advertisement Effectiveness Analyzer.
 
 Ad Insight is an **AI-powered system** that analyzes advertisement data (TV ads, social media ads, product promos) to **measure effectiveness** in terms of engagement, mood, and recall potential.  
 This implementation uses a **Hybrid Artificial Immune System (AIS) + Clonal Selection Algorithm (CSA)** pipeline for feature selection and hyperparameter optimization.
